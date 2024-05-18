@@ -1,6 +1,4 @@
 .DS_Store
-*.[56789ao]
-*.a[56789o]
 *.so
 *.pyc
 ._*
@@ -20,7 +18,6 @@ _test
 _testmain.go
 
 /VERSION.cache
-/bin/
 /build.out
 /doc/articles/wiki/*.bin
 /goinstall.log
@@ -28,7 +25,6 @@ _testmain.go
 /misc/cgo/life/run.out
 /misc/cgo/stdio/run.out
 /misc/cgo/testso/main
-/pkg/
 /src/*.*/
 /src/cmd/cgo/zdefaultcc.go
 /src/cmd/dist/dist
